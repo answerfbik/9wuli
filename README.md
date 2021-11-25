@@ -1,3 +1,3 @@
 # 9wuli
 
-Hi!
+Please view jerry.html or jerry.pdf :)
